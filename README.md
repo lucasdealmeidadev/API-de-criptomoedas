@@ -4,6 +4,12 @@ Requisitando dados de uma API de criptomoedas com **JavaScript**. Esse projeto f
 
 ![Alt text](https://github.com/lucasdealmeidadev/API-de-criptomoedas/blob/main/coins.png?raw=true "API Coin Market Cap")
 
+### Melhorias implementadas:
+
+- Interface do projeto totalmente remodelada utilizando Bootstrap v5.0;
+- Adiconado a primeira e última data histórica;
+- Inclusão do ranking.
+
 ### Requisitos e Documentações
 
 [Portal do desenvolvedor](https://pro.coinmarketcap.com/account) <br>
