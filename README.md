@@ -8,11 +8,11 @@ Requisitando dados de uma API de criptomoedas com **JavaScript**. Esse projeto f
 
 - Interface do projeto totalmente remodelada utilizando Bootstrap v5.0;
 - Adiconado a primeira e última data histórica;
-- Inclusão do ranking.
+- Inclusão do ranking de criptomoedas.
 
 ### Requisitos e Documentações
 
-[Portal do desenvolvedor](https://pro.coinmarketcap.com/account) <br>
+[Gerar a API KEY no Portal do desenvolvedor](https://pro.coinmarketcap.com/account) <br>
 [Documetação de autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication)<br>
-[Documentação API](https://coinmarketcap.com/api/documentation/v1/#)<br>
+[Documentação da API](https://coinmarketcap.com/api/documentation/v1/#)<br>
 [Instalar e Habilitar a extensão para o Google Chrome](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
