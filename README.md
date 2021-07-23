@@ -16,3 +16,11 @@ Requisitando dados de uma API de criptomoedas com **JavaScript**. Esse projeto f
 [Documetação de autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication)<br>
 [Documentação da API](https://coinmarketcap.com/api/documentation/v1/#)<br>
 [Instalar e Habilitar a extensão para o Google Chrome](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+
+## Licença
+
+* Licenciado sob a licença MIT - veja [LICENSE](https://github.com/lucasdealmeidadev/API-de-criptomoedas/blob/main/LICENSE) para mais informações.
+
+----------
+
+Desenvolvido por Lucas de Almeida Monteiro (:  👋  [ Entrar em contato!!](https://www.linkedin.com/in/lucas-almeida-145a4513a)
